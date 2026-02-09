@@ -10,7 +10,7 @@ body {
   color: #1f2933;
 }
 
-/* Header */
+
 header {
   background: #0a2540;
   color: white;
@@ -22,7 +22,7 @@ header h1 {
   margin-bottom: 5px;
 }
 
-/* Navbar */
+
 nav {
   background: #0b1220;
   text-align: center;
@@ -42,7 +42,7 @@ nav a:hover {
   color: #1d4ed8;
 }
 
-/* Sections */
+
 section {
   max-width: 900px;
   margin: 40px auto;
@@ -54,13 +54,13 @@ h2 {
   margin-bottom: 10px;
 }
 
-/* Skills */
+
 ul li {
   margin-left: 20px;
   margin-bottom: 8px;
 }
 
-/* Project Cards */
+
 .card {
   background: white;
   padding: 20px;
@@ -75,7 +75,7 @@ ul li {
   box-shadow: 0 12px 24px rgba(2, 6, 23, 0.25);
 }
 
-/* Contact Info */
+
 .contact-info {
   margin-bottom: 15px;
   font-size: 16px;
@@ -85,7 +85,7 @@ ul li {
   margin: 6px 0;
 }
 
-/* Form */
+
 form {
   background: white;
   padding: 20px;
@@ -108,7 +108,7 @@ textarea:focus {
   border-color: #0a2540;
 }
 
-/* Button */
+
 button {
   padding: 10px 20px;
   background: #0a2540;
@@ -123,7 +123,7 @@ button:hover {
   background: #1d4ed8
 }
 
-/* Footer */
+
 footer {
   text-align: center;
   background: #0b1220;
@@ -132,7 +132,7 @@ footer {
   margin-top: 30px;
 }
 
-/* Responsive */
+
 @media (max-width: 600px) {
   nav a {
     display: block;
